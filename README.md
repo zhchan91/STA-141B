@@ -1,2 +1,1 @@
-# STA-141B
-works in the STA 141B
+# STA-141Bworks in the STA 141B XD 
